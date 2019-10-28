@@ -14,6 +14,6 @@ Requirement
 Installations
 =
 1. git clone this repo
-2. cd to the code/
+2. cd to the code/main
 3. run make all 
 4. plug the stlink into the usb port and run "sudo make flash"
