@@ -8,8 +8,8 @@ Requirement
 3. latest version of SDCC (Mine 3.9.0)
 4. latest versionn of stm8flash 
 
-1.stm8l151f3u3 board
-2.10 segment led bargraph
+1. stm8l151f3u3 board
+2. 10 segment led bargraph
 
 Installations
 =
