@@ -17,3 +17,12 @@ Installations
 2. cd to the code/main
 3. run make all 
 4. plug the stlink into the usb port and run "sudo make flash"
+
+What work ? 
+=
+1. RTC read
+2. RTC keeping time
+
+What are not working ?
+=
+1. update RTC time. 
